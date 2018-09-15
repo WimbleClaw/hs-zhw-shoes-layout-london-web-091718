@@ -24,7 +24,9 @@
 
 /* Posititoning Classes */
 
-
+.clear {
+  
+}
 
 .col-1{
   float: left;
