@@ -37,3 +37,8 @@
   width: 33%
 }
 
+.col-3{
+  float: left;
+  width: 33%;
+}
+
