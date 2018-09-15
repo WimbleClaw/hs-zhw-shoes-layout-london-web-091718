@@ -24,20 +24,16 @@
 
 /* Posititoning Classes */
 
-/*.clear{
-  clear: both;
-}*/
+
 
 .col-1{
   float: left;
-  width: 65%
+  width: 66%
 }
 
 
 .col-2{
   float: left;
-  width: 32%
+  width: 33%
 }
-
-
 
