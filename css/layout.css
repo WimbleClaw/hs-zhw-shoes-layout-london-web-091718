@@ -24,14 +24,7 @@
 
 /* Posititoning Classes */
 
-
-.border_right { 
-  column-count: 3;
-  column-gap: 1px;
-  column-rule-style: solid;
-  column-rule-color: lightgrey;
-}
-
-.clearfix{
-  overflow: auto;
+.col-1{
+  
+  width: 
 }
