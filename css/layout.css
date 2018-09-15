@@ -42,4 +42,7 @@
   width: 33%;
 }
 
-[class*="col"]
+[class*="col"]{
+  margin-left: 2%
+  margin-bottom: 2%
+}
